@@ -1,1 +1,1 @@
-width, height = 50, 50
+width, height = 100, 100
